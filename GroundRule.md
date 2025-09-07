@@ -1,5 +1,5 @@
 
-### ALL IS WELL's GROUNDRULE
+### 📌 ALL IS WELL's GROUNDRULE
 ---
 
 - 기본적인 깃 및 깃허브 관련 공부 개인적으로 해오기
