@@ -7,4 +7,4 @@
     - 서비스 대상: 주식 투자에 입문했거나 경험이 적은 대학생·사회초년생·개인 투자자
     - 문제: 초보 투자자들은 한 종목 집중 투자·높은 변동성 등으로 위험 관리에 실패하기 쉽고, 정보를 분석해 분산 포트폴리오를 구성하기 어렵다.
     - 제안: 사용자가 투자 성향(위험 회피/중립/선호), 투자 기간, 금액 등을 입력하면, AI가 위험도·수익성 구조를 고려한 맞춤형 분산 투자 포트폴리오를 제안. 사용자는 제안된 포트폴리오 중 선호/비선호 조건을 반영해 개인화된 투자 방향을 설정할 수 있다.
-    - 기술 사용: Spring(Java) 백엔드 + React(JS) 프론트엔드로 웹 서비스 구현, AI API(OpenAI/HuggingFace)와 금융 데이터 API(Yahoo Finance, Alpha Vantage 등)를 활용해 종목 분석 및 위험/수익성 평가, DB(PostgreSQL/MySQL)에 사용자 프로필 및 투자 이력을 저장한다..
+    - 기술 사용: Spring(Java) 백엔드 + React(JS) 프론트엔드로 웹 서비스 구현, AI API(OpenAI/HuggingFace)와 금융 데이터 API(Yahoo Finance, Alpha Vantage 등)를 활용해 종목 분석 및 위험/수익성 평가, DB(PostgreSQL/MySQL)에 사용자 프로필 및 투자 이력을 저장한다.
